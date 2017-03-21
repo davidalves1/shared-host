@@ -3,7 +3,7 @@
 
 ---
 
-# How to installNode, Gulp and Bower in a shared host
+# How to install Node, Gulp and Bower in a shared host
 
 ## Installing Node
 
@@ -87,7 +87,6 @@
 	```
 
 ---
-### Português
 
 # Como instalar o NodeJS, Bower e Gulp no servidor compartilhado
 
