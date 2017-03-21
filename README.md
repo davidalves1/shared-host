@@ -10,22 +10,22 @@
 - Go to your project path
 - Execute this command: 
 	```
-	$ wget https://nodejs.org/dist/v4.5.0/node-v4.5.0-linux-x64.tar.gz --no-check-certificate
+	$ wget https://nodejs.org/dist/v7.7.3/node-v7.7.3-linux-x64.tar.gz --no-check-certificate
 	```
 
 - After the download finished, execute this command to extract files: 
 	```
-	$ tar xvf node-v4.5.0-linux-x64.tar.gz
+	$ tar xvf node-v7.7.3-linux-x64.tar.gz
 	```	
 
 - After files extracted, execute the command to rename path: 
 	```
-	$ mv node-v4.5.0-linux-x64 node
+	$ mv nnode-v7.7.3-linux-x64 node
 	```
 
-- Now the file node-v4.4.2-linux-x64.tar.gz not necessar and can be deleted: 
+- Now the file node-v7.7.3-linux-x64.tar.gz not necessar and can be deleted: 
 	```
-	$ rm node-v4.5.0-linux-x64.tar.gz
+	$ rm node-v7.7.3-linux-x64.tar.gz
 	```
 
 ## Installing Bower
@@ -95,22 +95,22 @@
 - Navegar até a pasta do projeto utilizando o terminal ssh
 - Executar o comando: 
 	```
-	$ wget https://nodejs.org/dist/v4.5.0/node-v4.5.0-linux-x64.tar.gz --no-check-certificate
+	$ wget https://nodejs.org/dist/v7.7.3/node-v7.7.3-linux-x64.tar.gz --no-check-certificate
 	```
 
 - Após finalizar o download, executar o comando para extrair o conteúdo: 
 	```
-	$ tar xvf node-v4.5.0-linux-x64.tar.gz
+	$ tar xvf node-v7.7.3-linux-x64.tar.gz
 	```	
 
 - Após finalizar a extração do pacote, executar o comando para renomear a pasta: 
 	```
-	$ mv node-v4.5.0-linux-x64 node
+	$ mv node-v7.7.3-linux-x64 node
 	```
 
-- Feito isso, o arquivo node-v4.4.2-linux-x64.tar.gz não é mais necessário e pode ser excluído com o comando: 
+- Feito isso, o arquivo node-v7.7.3-linux-x64.tar.gz não é mais necessário e pode ser excluído com o comando: 
 	```
-	$ rm node-v4.5.0-linux-x64.tar.gz
+	$ rm node-v7.7.3-linux-x64.tar.gz
 	```
 
 ## Instalando o bower
